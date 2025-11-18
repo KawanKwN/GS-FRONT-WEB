@@ -51,8 +51,7 @@ O Vite irá exibir no terminal o link local para acesso (geralmente: http://loca
 ).
 
 🌐 Link do Repositório
-
-(Adicionar aqui após subir para o GitHub)
+https://github.com/KawanKwN/GS-FRONT-WEB
 
 👥 Integrantes do Grupo
 
