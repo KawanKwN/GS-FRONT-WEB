@@ -1,0 +1,2657 @@
+[
+  {
+    "id": 999,
+    "name": "Laura Cristina Moretti",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Laura%20Moretti",
+    "title": "Especialista em Transformação Digital",
+    "city": "São Paulo",
+    "area": "Gestão de Projetos",
+    "technologies": [
+      "Scrum",
+      "OKRs",
+      "Lean Inception",
+      "Kanban",
+      "Notion"
+    ],
+    "softSkills": [
+      "Liderança empática",
+      "Comunicação clara",
+      "Resolução de conflitos",
+      "Visão sistêmica"
+    ],
+    "hobbies": [
+      "Corrida",
+      "Leitura",
+      "Fotografia"
+    ],
+    "summary": "Profissional com 8 anos de experiência em gestão de projetos e transformação digital.",
+    "experience": [
+      {
+        "role": "Especialista em Transformação Digital",
+        "company": "FutureLab Corporation",
+        "years": "2022 - Atual",
+        "description": "Liderança de squads, implementação de metodologias ágeis, facilitação de workshops estratégicos e estruturação de OKRs corporativos."
+      },
+      {
+        "role": "Scrum Master",
+        "company": "Novo Horizonte Tech",
+        "years": "2019 - 2022",
+        "description": "Condução de cerimônias ágeis, desenvolvimento de times e otimização de fluxos internos."
+      },
+      {
+        "role": "Analista de Projetos",
+        "company": "InovaStart",
+        "years": "2016 - 2019",
+        "description": "Mapeamento de processos, documentação funcional e apoio na gestão de portfólio de projetos."
+      }
+    ],
+    "education": [
+      {
+        "degree": "MBA em Gestão de Projetos e Inovação",
+        "institution": "FIAP",
+        "year": "2021"
+      },
+      {
+        "degree": "Bacharelado em Administração",
+        "institution": "USP",
+        "year": "2016"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bruno Lima",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Bruno",
+    "title": "Product Owner",
+    "city": "Belo Horizonte",
+    "area": "Gestão de Projetos",
+    "technologies": [
+      "Machine Learning",
+      "Meta Ads",
+      "SQL"
+    ],
+    "softSkills": [
+      "Visão analítica",
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Cinema"
+    ],
+    "summary": "Product Owner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Product Owner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Gestão de Projetos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Carla Ribeiro",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Carla",
+    "title": "Facilitador(a) de Aprendizagem",
+    "city": "Belo Horizonte",
+    "area": "Educação & Treinamento",
+    "technologies": [
+      "Power BI",
+      "SEO",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Organização",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Podcasts",
+      "Ciclismo"
+    ],
+    "summary": "Facilitador(a) de Aprendizagem atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Facilitador(a) de Aprendizagem",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Educação & Treinamento",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Diego Fernandes",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Diego",
+    "title": "People Partner",
+    "city": "Curitiba",
+    "area": "Recursos Humanos",
+    "technologies": [
+      "Python",
+      "Meta Ads",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resolução de problemas",
+      "Organização"
+    ],
+    "hobbies": [
+      "Caminhada",
+      "Música"
+    ],
+    "summary": "People Partner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "People Partner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Recursos Humanos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Eduarda Silva",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Eduarda",
+    "title": "Especialista em Marketing Digital",
+    "city": "Porto Alegre",
+    "area": "Marketing Digital",
+    "technologies": [
+      "Power BI",
+      "Figma",
+      "Python"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Resolução de problemas",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Música",
+      "Viagens"
+    ],
+    "summary": "Especialista em Marketing Digital atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em Marketing Digital",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Marketing Digital",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Felipe Costa",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Felipe",
+    "title": "Especialista em Marketing Digital",
+    "city": "Rio de Janeiro",
+    "area": "Marketing Digital",
+    "technologies": [
+      "Meta Ads",
+      "SQL",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Jogos digitais"
+    ],
+    "summary": "Especialista em Marketing Digital atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em Marketing Digital",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Marketing Digital",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gabriela Nunes",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Gabriela",
+    "title": "Desenvolvedor(a) Full Stack",
+    "city": "Porto Alegre",
+    "area": "Desenvolvimento de Software",
+    "technologies": [
+      "Tailwind CSS",
+      "Kanban",
+      "Figma"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Organização",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Música",
+      "Jogos digitais"
+    ],
+    "summary": "Desenvolvedor(a) Full Stack atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Desenvolvedor(a) Full Stack",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Desenvolvimento de Software",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Henrique Alves",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Henrique",
+    "title": "Especialista em Marketing Digital",
+    "city": "São Paulo",
+    "area": "Marketing Digital",
+    "technologies": [
+      "Power BI",
+      "Kanban",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico",
+      "Visão analítica"
+    ],
+    "hobbies": [
+      "Caminhada",
+      "Viagens"
+    ],
+    "summary": "Especialista em Marketing Digital atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em Marketing Digital",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Marketing Digital",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Isabela Martins",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Isabela",
+    "title": "Especialista em Marketing Digital",
+    "city": "Porto Alegre",
+    "area": "Marketing Digital",
+    "technologies": [
+      "Kanban",
+      "React",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Caminhada",
+      "Podcasts"
+    ],
+    "summary": "Especialista em Marketing Digital atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em Marketing Digital",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Marketing Digital",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "João Pedro Oliveira",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=João",
+    "title": "People Partner",
+    "city": "Porto Alegre",
+    "area": "Recursos Humanos",
+    "technologies": [
+      "Meta Ads",
+      "React",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Visão analítica",
+      "Organização",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Cinema",
+      "Leitura"
+    ],
+    "summary": "People Partner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "People Partner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Recursos Humanos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Karen Santos",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Karen",
+    "title": "Analista de Dados",
+    "city": "Porto Alegre",
+    "area": "Data Science",
+    "technologies": [
+      "Tailwind CSS",
+      "TensorFlow",
+      "Figma"
+    ],
+    "softSkills": [
+      "Visão analítica",
+      "Criatividade",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Música"
+    ],
+    "summary": "Analista de Dados atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Analista de Dados",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Data Science",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Lucas Pereira",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Lucas",
+    "title": "Product Owner",
+    "city": "Curitiba",
+    "area": "Gestão de Projetos",
+    "technologies": [
+      "SQL",
+      "SEO",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resolução de problemas",
+      "Organização"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Jogos digitais"
+    ],
+    "summary": "Product Owner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Product Owner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Gestão de Projetos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Mariana Rocha",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Mariana",
+    "title": "Product Owner",
+    "city": "Curitiba",
+    "area": "Gestão de Projetos",
+    "technologies": [
+      "Node.js",
+      "SQL",
+      "Python"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Podcasts",
+      "Ciclismo"
+    ],
+    "summary": "Product Owner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Product Owner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Gestão de Projetos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Nicolas Araújo",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Nicolas",
+    "title": "UX/UI Designer",
+    "city": "Curitiba",
+    "area": "UX/UI Design",
+    "technologies": [
+      "Node.js",
+      "React",
+      "SEO"
+    ],
+    "softSkills": [
+      "Visão analítica",
+      "Liderança",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Jogos digitais",
+      "Caminhada"
+    ],
+    "summary": "UX/UI Designer atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "UX/UI Designer",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional UX/UI Design",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Olívia Castro",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Olívia",
+    "title": "Desenvolvedor(a) Full Stack",
+    "city": "Porto Alegre",
+    "area": "Desenvolvimento de Software",
+    "technologies": [
+      "Machine Learning",
+      "React",
+      "Meta Ads"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Música",
+      "Caminhada"
+    ],
+    "summary": "Desenvolvedor(a) Full Stack atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Desenvolvedor(a) Full Stack",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Desenvolvimento de Software",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Paulo Henrique",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Paulo",
+    "title": "Especialista em IA Aplicada",
+    "city": "São Paulo",
+    "area": "Inteligência Artificial",
+    "technologies": [
+      "SQL",
+      "TensorFlow",
+      "React"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Organização",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Música"
+    ],
+    "summary": "Especialista em IA Aplicada atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em IA Aplicada",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Inteligência Artificial",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Queila Andrade",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Queila",
+    "title": "Analista de Dados",
+    "city": "Porto Alegre",
+    "area": "Data Science",
+    "technologies": [
+      "Meta Ads",
+      "Figma",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Visão analítica",
+      "Empatia",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Cinema"
+    ],
+    "summary": "Analista de Dados atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Analista de Dados",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Data Science",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Rafael Teixeira",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Rafael",
+    "title": "Especialista em Marketing Digital",
+    "city": "Belo Horizonte",
+    "area": "Marketing Digital",
+    "technologies": [
+      "Kanban",
+      "TypeScript",
+      "SEO"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Música",
+      "Cinema"
+    ],
+    "summary": "Especialista em Marketing Digital atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em Marketing Digital",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Marketing Digital",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Sara Menezes",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Sara",
+    "title": "Especialista em Marketing Digital",
+    "city": "Porto Alegre",
+    "area": "Marketing Digital",
+    "technologies": [
+      "SEO",
+      "Meta Ads",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Música",
+      "Caminhada"
+    ],
+    "summary": "Especialista em Marketing Digital atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em Marketing Digital",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Marketing Digital",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Tiago Moreira",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Tiago",
+    "title": "Desenvolvedor(a) Full Stack",
+    "city": "Curitiba",
+    "area": "Desenvolvimento de Software",
+    "technologies": [
+      "SEO",
+      "Node.js",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Visão analítica",
+      "Organização"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Cinema"
+    ],
+    "summary": "Desenvolvedor(a) Full Stack atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Desenvolvedor(a) Full Stack",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Desenvolvimento de Software",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Ursula Prado",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Ursula",
+    "title": "Community Manager",
+    "city": "Belo Horizonte",
+    "area": "Comunidade & Engajamento",
+    "technologies": [
+      "Python",
+      "Scrum",
+      "React"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Podcasts",
+      "Música"
+    ],
+    "summary": "Community Manager atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Community Manager",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Comunidade & Engajamento",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Vinicius Amaral",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Vinicius",
+    "title": "Especialista em Marketing Digital",
+    "city": "Porto Alegre",
+    "area": "Marketing Digital",
+    "technologies": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Caminhada"
+    ],
+    "summary": "Especialista em Marketing Digital atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em Marketing Digital",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Marketing Digital",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Wesley Gomes",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Wesley",
+    "title": "People Partner",
+    "city": "Rio de Janeiro",
+    "area": "Recursos Humanos",
+    "technologies": [
+      "Figma",
+      "Machine Learning",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Música"
+    ],
+    "summary": "People Partner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "People Partner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Recursos Humanos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Xênia Barros",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Xênia",
+    "title": "Analista de Dados",
+    "city": "Porto Alegre",
+    "area": "Data Science",
+    "technologies": [
+      "Python",
+      "Meta Ads",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Empatia",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Caminhada"
+    ],
+    "summary": "Analista de Dados atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Analista de Dados",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Data Science",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Yasmin Duarte",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Yasmin",
+    "title": "People Partner",
+    "city": "Belo Horizonte",
+    "area": "Recursos Humanos",
+    "technologies": [
+      "SEO",
+      "Python",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resolução de problemas",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Viagens"
+    ],
+    "summary": "People Partner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "People Partner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Recursos Humanos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Zeca Moretti",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Zeca",
+    "title": "Facilitador(a) de Aprendizagem",
+    "city": "Curitiba",
+    "area": "Educação & Treinamento",
+    "technologies": [
+      "SQL",
+      "TensorFlow",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Jogos digitais",
+      "Viagens"
+    ],
+    "summary": "Facilitador(a) de Aprendizagem atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Facilitador(a) de Aprendizagem",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Educação & Treinamento",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Amanda Farias",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Amanda",
+    "title": "Product Owner",
+    "city": "Curitiba",
+    "area": "Gestão de Projetos",
+    "technologies": [
+      "Scrum",
+      "Tailwind CSS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resolução de problemas",
+      "Organização"
+    ],
+    "hobbies": [
+      "Podcasts",
+      "Caminhada"
+    ],
+    "summary": "Product Owner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Product Owner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Gestão de Projetos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Bianca Novaes",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Bianca",
+    "title": "Analista de Dados",
+    "city": "Rio de Janeiro",
+    "area": "Data Science",
+    "technologies": [
+      "SEO",
+      "Node.js",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Organização",
+      "Criatividade",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Caminhada",
+      "Ciclismo"
+    ],
+    "summary": "Analista de Dados atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Analista de Dados",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Data Science",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Caio Albuquerque",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Caio",
+    "title": "Especialista em Marketing Digital",
+    "city": "Belo Horizonte",
+    "area": "Marketing Digital",
+    "technologies": [
+      "React",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Música",
+      "Ciclismo"
+    ],
+    "summary": "Especialista em Marketing Digital atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em Marketing Digital",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Marketing Digital",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Diana Torres",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Diana",
+    "title": "UX/UI Designer",
+    "city": "Rio de Janeiro",
+    "area": "UX/UI Design",
+    "technologies": [
+      "SQL",
+      "TensorFlow",
+      "Meta Ads"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Caminhada"
+    ],
+    "summary": "UX/UI Designer atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "UX/UI Designer",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional UX/UI Design",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Elisa Prado",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Elisa",
+    "title": "Especialista em IA Aplicada",
+    "city": "São Paulo",
+    "area": "Inteligência Artificial",
+    "technologies": [
+      "Power BI",
+      "SQL",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Comunicação",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Podcasts",
+      "Jogos digitais"
+    ],
+    "summary": "Especialista em IA Aplicada atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em IA Aplicada",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Inteligência Artificial",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Fábio Sena",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Fábio",
+    "title": "Especialista em IA Aplicada",
+    "city": "Rio de Janeiro",
+    "area": "Inteligência Artificial",
+    "technologies": [
+      "Meta Ads",
+      "React",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Jogos digitais",
+      "Cinema"
+    ],
+    "summary": "Especialista em IA Aplicada atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em IA Aplicada",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Inteligência Artificial",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Giovana Melo",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Giovana",
+    "title": "Desenvolvedor(a) Full Stack",
+    "city": "São Paulo",
+    "area": "Desenvolvimento de Software",
+    "technologies": [
+      "Python",
+      "Power BI",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Organização",
+      "Visão analítica"
+    ],
+    "hobbies": [
+      "Jogos digitais",
+      "Viagens"
+    ],
+    "summary": "Desenvolvedor(a) Full Stack atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Desenvolvedor(a) Full Stack",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Desenvolvimento de Software",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Hugo Barreto",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Hugo",
+    "title": "Analista de Dados",
+    "city": "São Paulo",
+    "area": "Data Science",
+    "technologies": [
+      "Python",
+      "React",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Organização",
+      "Criatividade",
+      "Visão analítica"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Viagens"
+    ],
+    "summary": "Analista de Dados atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Analista de Dados",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Data Science",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Igor Nascimento",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Igor",
+    "title": "UX/UI Designer",
+    "city": "São Paulo",
+    "area": "UX/UI Design",
+    "technologies": [
+      "Power BI",
+      "SQL",
+      "Figma"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Jogos digitais",
+      "Cinema"
+    ],
+    "summary": "UX/UI Designer atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "UX/UI Designer",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional UX/UI Design",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Jaqueline Reis",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Jaqueline",
+    "title": "Analista de Dados",
+    "city": "Rio de Janeiro",
+    "area": "Data Science",
+    "technologies": [
+      "Kanban",
+      "Meta Ads",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Jogos digitais",
+      "Ciclismo"
+    ],
+    "summary": "Analista de Dados atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Analista de Dados",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Data Science",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Kleber Assis",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Kleber",
+    "title": "UX/UI Designer",
+    "city": "Belo Horizonte",
+    "area": "UX/UI Design",
+    "technologies": [
+      "Kanban",
+      "Machine Learning",
+      "Figma"
+    ],
+    "softSkills": [
+      "Organização",
+      "Resolução de problemas",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Música",
+      "Podcasts"
+    ],
+    "summary": "UX/UI Designer atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "UX/UI Designer",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional UX/UI Design",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Larissa Monteiro",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Larissa",
+    "title": "UX/UI Designer",
+    "city": "Porto Alegre",
+    "area": "UX/UI Design",
+    "technologies": [
+      "TensorFlow",
+      "Power BI",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Comunicação",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Podcasts",
+      "Jogos digitais"
+    ],
+    "summary": "UX/UI Designer atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "UX/UI Designer",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional UX/UI Design",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Márcio Pacheco",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Márcio",
+    "title": "UX/UI Designer",
+    "city": "Curitiba",
+    "area": "UX/UI Design",
+    "technologies": [
+      "TensorFlow",
+      "TypeScript",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Viagens",
+      "Jogos digitais"
+    ],
+    "summary": "UX/UI Designer atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "UX/UI Designer",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional UX/UI Design",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Natália Campos",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Natália",
+    "title": "Facilitador(a) de Aprendizagem",
+    "city": "Curitiba",
+    "area": "Educação & Treinamento",
+    "technologies": [
+      "Power BI",
+      "TypeScript",
+      "Meta Ads"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Caminhada"
+    ],
+    "summary": "Facilitador(a) de Aprendizagem atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Facilitador(a) de Aprendizagem",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Educação & Treinamento",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Otávio Cunha",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Otávio",
+    "title": "Product Owner",
+    "city": "Belo Horizonte",
+    "area": "Gestão de Projetos",
+    "technologies": [
+      "Power BI",
+      "Kanban",
+      "Figma"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Cinema"
+    ],
+    "summary": "Product Owner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Product Owner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Gestão de Projetos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Patrícia Lemos",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Patrícia",
+    "title": "People Partner",
+    "city": "Curitiba",
+    "area": "Recursos Humanos",
+    "technologies": [
+      "SEO",
+      "Tailwind CSS",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resolução de problemas",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Leitura",
+      "Podcasts"
+    ],
+    "summary": "People Partner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "People Partner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Recursos Humanos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Quintino Lopes",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Quintino",
+    "title": "Product Owner",
+    "city": "Belo Horizonte",
+    "area": "Gestão de Projetos",
+    "technologies": [
+      "Power BI",
+      "Machine Learning",
+      "Meta Ads"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Cinema",
+      "Viagens"
+    ],
+    "summary": "Product Owner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Product Owner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Gestão de Projetos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Renata Azevedo",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Renata",
+    "title": "Community Manager",
+    "city": "Curitiba",
+    "area": "Comunidade & Engajamento",
+    "technologies": [
+      "React",
+      "Tailwind CSS",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Visão analítica",
+      "Empatia",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Música",
+      "Jogos digitais"
+    ],
+    "summary": "Community Manager atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Community Manager",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Comunidade & Engajamento",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Samuel Cardoso",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Samuel",
+    "title": "Especialista em IA Aplicada",
+    "city": "São Paulo",
+    "area": "Inteligência Artificial",
+    "technologies": [
+      "SEO",
+      "Node.js",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Visão analítica",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Música",
+      "Ciclismo"
+    ],
+    "summary": "Especialista em IA Aplicada atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em IA Aplicada",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Inteligência Artificial",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Talita Moura",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Talita",
+    "title": "Especialista em IA Aplicada",
+    "city": "Rio de Janeiro",
+    "area": "Inteligência Artificial",
+    "technologies": [
+      "Tailwind CSS",
+      "React",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Jogos digitais",
+      "Viagens"
+    ],
+    "summary": "Especialista em IA Aplicada atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em IA Aplicada",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Inteligência Artificial",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Ulisses Braga",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Ulisses",
+    "title": "People Partner",
+    "city": "Porto Alegre",
+    "area": "Recursos Humanos",
+    "technologies": [
+      "Scrum",
+      "Figma",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Visão analítica",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Viagens"
+    ],
+    "summary": "People Partner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "People Partner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Recursos Humanos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Vera Guimarães",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Vera",
+    "title": "Especialista em Marketing Digital",
+    "city": "Belo Horizonte",
+    "area": "Marketing Digital",
+    "technologies": [
+      "Scrum",
+      "SQL",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Visão analítica",
+      "Pensamento crítico",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Podcasts",
+      "Jogos digitais"
+    ],
+    "summary": "Especialista em Marketing Digital atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em Marketing Digital",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Marketing Digital",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Willian Castro",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Willian",
+    "title": "Product Owner",
+    "city": "Rio de Janeiro",
+    "area": "Gestão de Projetos",
+    "technologies": [
+      "Figma",
+      "React",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Jogos digitais",
+      "Leitura"
+    ],
+    "summary": "Product Owner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Product Owner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Gestão de Projetos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Yuri Tanaka",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Yuri",
+    "title": "Especialista em Marketing Digital",
+    "city": "Curitiba",
+    "area": "Marketing Digital",
+    "technologies": [
+      "Kanban",
+      "SQL",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Visão analítica",
+      "Criatividade",
+      "Empatia"
+    ],
+    "hobbies": [
+      "Caminhada",
+      "Música"
+    ],
+    "summary": "Especialista em Marketing Digital atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em Marketing Digital",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Marketing Digital",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Adriana Lopes",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Adriana",
+    "title": "Desenvolvedor(a) Full Stack",
+    "city": "São Paulo",
+    "area": "Desenvolvimento de Software",
+    "technologies": [
+      "TypeScript",
+      "Figma",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Visão analítica",
+      "Comunicação"
+    ],
+    "hobbies": [
+      "Jogos digitais",
+      "Podcasts"
+    ],
+    "summary": "Desenvolvedor(a) Full Stack atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Desenvolvedor(a) Full Stack",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Desenvolvimento de Software",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Brenda Sato",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Brenda",
+    "title": "Analista de Dados",
+    "city": "Porto Alegre",
+    "area": "Data Science",
+    "technologies": [
+      "SQL",
+      "Scrum",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Organização",
+      "Resolução de problemas"
+    ],
+    "hobbies": [
+      "Podcasts",
+      "Leitura"
+    ],
+    "summary": "Analista de Dados atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Analista de Dados",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Data Science",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "César Kimura",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=César",
+    "title": "People Partner",
+    "city": "Rio de Janeiro",
+    "area": "Recursos Humanos",
+    "technologies": [
+      "SEO",
+      "Kanban",
+      "Meta Ads"
+    ],
+    "softSkills": [
+      "Organização",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Cinema",
+      "Podcasts"
+    ],
+    "summary": "People Partner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "People Partner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Recursos Humanos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Danilo Correia",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Danilo",
+    "title": "People Partner",
+    "city": "São Paulo",
+    "area": "Recursos Humanos",
+    "technologies": [
+      "Power BI",
+      "Python",
+      "SEO"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Visão analítica"
+    ],
+    "hobbies": [
+      "Jogos digitais",
+      "Música"
+    ],
+    "summary": "People Partner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "People Partner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Recursos Humanos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Evelyn Costa",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Evelyn",
+    "title": "Community Manager",
+    "city": "Curitiba",
+    "area": "Comunidade & Engajamento",
+    "technologies": [
+      "TensorFlow",
+      "Power BI",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Empatia",
+      "Visão analítica"
+    ],
+    "hobbies": [
+      "Caminhada",
+      "Leitura"
+    ],
+    "summary": "Community Manager atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Community Manager",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Comunidade & Engajamento",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Flávia Takahashi",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Flávia",
+    "title": "UX/UI Designer",
+    "city": "São Paulo",
+    "area": "UX/UI Design",
+    "technologies": [
+      "Power BI",
+      "Scrum",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resolução de problemas",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Música"
+    ],
+    "summary": "UX/UI Designer atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "UX/UI Designer",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional UX/UI Design",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Gustavo Rossi",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Gustavo",
+    "title": "Especialista em Marketing Digital",
+    "city": "Rio de Janeiro",
+    "area": "Marketing Digital",
+    "technologies": [
+      "Python",
+      "Scrum",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Criatividade",
+      "Liderança"
+    ],
+    "hobbies": [
+      "Cinema",
+      "Podcasts"
+    ],
+    "summary": "Especialista em Marketing Digital atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Especialista em Marketing Digital",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Marketing Digital",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Heitor Carvalho",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Heitor",
+    "title": "Product Owner",
+    "city": "Belo Horizonte",
+    "area": "Gestão de Projetos",
+    "technologies": [
+      "Power BI",
+      "Python",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Criatividade"
+    ],
+    "hobbies": [
+      "Caminhada",
+      "Jogos digitais"
+    ],
+    "summary": "Product Owner atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Product Owner",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Gestão de Projetos",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Ingrid Lopes",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Ingrid",
+    "title": "Desenvolvedor(a) Full Stack",
+    "city": "São Paulo",
+    "area": "Desenvolvimento de Software",
+    "technologies": [
+      "SEO",
+      "Power BI",
+      "TypeScript"
+    ],
+    "softSkills": [
+      "Visão analítica",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "hobbies": [
+      "Ciclismo",
+      "Viagens"
+    ],
+    "summary": "Desenvolvedor(a) Full Stack atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Desenvolvedor(a) Full Stack",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Desenvolvimento de Software",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Joice Furtado",
+    "photo": "https://api.dicebear.com/9.x/initials/svg?seed=Joice",
+    "title": "Community Manager",
+    "city": "Curitiba",
+    "area": "Comunidade & Engajamento",
+    "technologies": [
+      "React",
+      "Machine Learning",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resolução de problemas",
+      "Pensamento crítico"
+    ],
+    "hobbies": [
+      "Podcasts",
+      "Ciclismo"
+    ],
+    "summary": "Community Manager atuando no ecossistema do futuro do trabalho, focado(a) em conectar pessoas, competências e propósito por meio da tecnologia.",
+    "experience": [
+      {
+        "role": "Community Manager",
+        "company": "SkillShift Labs",
+        "years": "2023 - Atual",
+        "description": "Atuação em plataforma de rede profissional voltada a requalificação e conexão de talentos."
+      },
+      {
+        "role": "Profissional Comunidade & Engajamento",
+        "company": "FutureWork Hub",
+        "years": "2020 - 2023",
+        "description": "Participação em projetos de transformação digital e desenvolvimento de competências."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Graduação em área correlata",
+        "institution": "FIAP",
+        "year": 2022
+      }
+    ]
+  }
+]
