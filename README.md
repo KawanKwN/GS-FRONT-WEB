@@ -1,12 +1,8 @@
 SkillShift AI – Plataforma Colaborativa do Futuro do Trabalho
-📌 Resumo do Projeto
 
 O SkillShift AI é uma aplicação desenvolvida como parte da Global Solution – Front-End Design & Web Development
-
 A proposta é simular uma rede profissional futurista, inspirada em plataformas como LinkedIn, conectando pessoas, competências e propósito através da tecnologia.
-
 A aplicação permite navegar por uma lista de profissionais fictícios, visualizar perfis completos, buscar talentos por área, cidade ou tecnologia, interagir via modal e alternar temas entre modo claro/escuro.
-
 Tudo construído com React + Vite, Tailwind CSS, JSON local e arquitetura SPA.
 
 🚀 Funcionalidades Principais
@@ -56,5 +52,4 @@ https://github.com/KawanKwN/GS-FRONT-WEB
 👥 Integrantes do Grupo
 
 Kawan Oliveira Amorim – RM 562197
-
 Alana Vieira Batista – RM 563796
